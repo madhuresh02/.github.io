@@ -1,0 +1,649 @@
+Activity Level,Health Condition,Meal Type,Dish Name,Calories (in g),Protein (in g),Diet Type,Budget
+Sedentary,Arthritis,Breakfast,Fish Tikka Platter,300,15,Non-Veg,High
+Sedentary,Arthritis,Breakfast,Quinoa Porridge with Nuts and Fruits,300,11,Veg,High
+Sedentary,Arthritis,Breakfast,Fish Tikka Platter,300,15,Non-Veg,Low
+Sedentary,Arthritis,Breakfast,Moong Dal Dosa,210,9,Veg,Low
+Sedentary,Arthritis,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Sedentary,Arthritis,Breakfast,Chia Seed Pudding with Almond Milk,260,8,Veg,Medium
+Sedentary,Arthritis,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,High
+Sedentary,Arthritis,Dinner,Mushroom Risotto with Mixed Greens,480,18,Veg,High
+Sedentary,Arthritis,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Sedentary,Arthritis,Dinner,Vegetable Oats Khichdi,270,9,Veg,Low
+Sedentary,Arthritis,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Sedentary,Arthritis,Dinner,Mixed Dal with Millet Roti,310,11,Veg,Medium
+Sedentary,Arthritis,Lunch,Turkey and Avocado Salad,300,15,Non-Veg,High
+Sedentary,Arthritis,Lunch,Grilled Vegetable and Chickpea Salad,500,19,Veg,High
+Sedentary,Arthritis,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Sedentary,Arthritis,Lunch,Vegetable Khichdi with Curd,370,9,Veg,Low
+Sedentary,Arthritis,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Sedentary,Arthritis,Lunch,Rajma-Chawal with Mixed Salad,400,13,Veg,Medium
+Sedentary,Asthma,Breakfast,Scrambled Eggs with Avocado,360,20,Non-Veg,High
+Sedentary,Asthma,Breakfast,Mushroom Paneer Wrap,250,10,Veg,High
+Sedentary,Asthma,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Sedentary,Asthma,Breakfast,Vegetable Upma,230,7,Veg,Low
+Sedentary,Asthma,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Sedentary,Asthma,Breakfast,Greek Yogurt with Berries,250,12,Veg,Medium
+Sedentary,Asthma,Dinner,Turkey Breast with Grilled Asparagus,500,30,Non-Veg,High
+Sedentary,Asthma,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,High
+Sedentary,Asthma,Dinner,Grilled Chicken Salad,300,20,Non-Veg,Low
+Sedentary,Asthma,Dinner,Vegetable Couscous,250,10,Veg,Low
+Sedentary,Asthma,Dinner,Roasted Chicken with Sweet Potato,360,20,Non-Veg,Medium
+Sedentary,Asthma,Dinner,Mushroom Paneer Wrap,250,10,Veg,Medium
+Sedentary,Asthma,Lunch,Chicken Breast with Roasted Vegetables,550,28,Non-Veg,High
+Sedentary,Asthma,Lunch,Chickpea Spinach Curry,250,10,Veg,High
+Sedentary,Asthma,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Sedentary,Asthma,Lunch,Palak Paneer with Chapati,380,16,Veg,Low
+Sedentary,Asthma,Lunch,Chicken Soup with Whole Wheat Toast,350,20,Non-Veg,Medium
+Sedentary,Asthma,Lunch,Chickpea Spinach Curry,250,10,Veg,Medium
+Sedentary,Back Pain,Breakfast,Grilled Chicken and Spinach Wrap,400,22,Non-Veg,High
+Sedentary,Back Pain,Breakfast,Vegetable Couscous,250,10,Veg,High
+Sedentary,Back Pain,Breakfast,Spinach and Cheese Omelette,270,14,Non-Veg,Low
+Sedentary,Back Pain,Breakfast,Vegetable Couscous,250,10,Veg,Low
+Sedentary,Back Pain,Breakfast,Smoked Salmon Bagel,350,18,Non-Veg,Medium
+Sedentary,Back Pain,Breakfast,Mushroom Paneer Wrap,250,10,Veg,Medium
+Sedentary,Back Pain,Dinner,Lobster Tail with Green Salad,600,28,Non-Veg,High
+Sedentary,Back Pain,Dinner,Quinoa Veg Pilaf,250,10,Veg,High
+Sedentary,Back Pain,Dinner,Fish Tikka Platter,300,15,Non-Veg,Low
+Sedentary,Back Pain,Dinner,Grilled Tofu Salad,280,15,Veg,Low
+Sedentary,Back Pain,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Sedentary,Back Pain,Dinner,Tofu Stir-Fry with Broccoli,340,16,Veg,Medium
+Sedentary,Back Pain,Lunch,Prawn Curry with Brown Rice,580,26,Non-Veg,High
+Sedentary,Back Pain,Lunch,Grilled Vegetable Sandwich,250,10,Veg,High
+Sedentary,Back Pain,Lunch,Fish Tikka Platter,300,15,Non-Veg,Low
+Sedentary,Back Pain,Lunch,Soya Chunk Curry with Brown Rice,400,18,Veg,Low
+Sedentary,Back Pain,Lunch,Grilled Fish with Quinoa Salad,420,22,Non-Veg,Medium
+Sedentary,Back Pain,Lunch,Mushroom Paneer Wrap,250,10,Veg,Medium
+Sedentary,Constipation,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Sedentary,Constipation,Breakfast,Berry Smoothie Bowl with Flaxseeds,290,9,Veg,High
+Sedentary,Constipation,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Sedentary,Constipation,Breakfast,Papaya Smoothie with Flaxseeds,180,5,Veg,Low
+Sedentary,Constipation,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Sedentary,Constipation,Breakfast,"High-Fiber Smoothie (Spinach, Apple, Flaxseeds)",220,6,Veg,Medium
+Sedentary,Constipation,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,High
+Sedentary,Constipation,Dinner,Lentil and Vegetable Casserole,470,22,Veg,High
+Sedentary,Constipation,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Sedentary,Constipation,Dinner,Masoor Dal Soup with Toasted Bread,250,10,Veg,Low
+Sedentary,Constipation,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Sedentary,Constipation,Dinner,Vegetable Handvo (Gujarati Dish),320,8,Veg,Medium
+Sedentary,Constipation,Lunch,Prawn Masala Curry,300,15,Non-Veg,High
+Sedentary,Constipation,Lunch,Whole Wheat Pasta with Vegetables,520,16,Veg,High
+Sedentary,Constipation,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Sedentary,Constipation,Lunch,Rajma (Kidney Beans) with Brown Rice,390,14,Veg,Low
+Sedentary,Constipation,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Sedentary,Constipation,Lunch,Vegetable and Lentil Soup with Toast,370,14,Veg,Medium
+Sedentary,Diabetes,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Sedentary,Diabetes,Breakfast,Greek Yogurt with Berries and Chia Seeds,280,15,Veg,High
+Sedentary,Diabetes,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Sedentary,Diabetes,Breakfast,Besan (Gram Flour) Chilla,220,10,Veg,Low
+Sedentary,Diabetes,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Sedentary,Diabetes,Breakfast,Quinoa Porridge with Nuts,300,10,Veg,Medium
+Sedentary,Diabetes,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Sedentary,Diabetes,Dinner,Zucchini Noodles with Tofu and Pesto,400,20,Veg,High
+Sedentary,Diabetes,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Sedentary,Diabetes,Dinner,Lauki (Bottle Gourd) Curry with Roti,260,7,Veg,Low
+Sedentary,Diabetes,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Sedentary,Diabetes,Dinner,Bottle Gourd (Lauki) and Moong Dal,280,10,Veg,Medium
+Sedentary,Diabetes,Lunch,Fish Tikka Platter,300,15,Non-Veg,High
+Sedentary,Diabetes,Lunch,Grilled Tofu with Stir-Fried Vegetables,480,22,Veg,High
+Sedentary,Diabetes,Lunch,Fish Tikka Platter,300,15,Non-Veg,Low
+Sedentary,Diabetes,Lunch,Mixed Vegetable Curry with Roti,360,11,Veg,Low
+Sedentary,Diabetes,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Sedentary,Diabetes,Lunch,Stir-Fried Tofu with Vegetables,380,15,Veg,Medium
+Sedentary,Fine,Breakfast,Fish Tikka Platter,300,15,Non-Veg,High
+Sedentary,Fine,Breakfast,Protein Pancakes with Honey and Berries,400,18,Veg,High
+Sedentary,Fine,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Sedentary,Fine,Breakfast,Vegetable Sandwich with Hummus,260,9,Veg,Low
+Sedentary,Fine,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Sedentary,Fine,Breakfast,Paneer Stuffed Paratha with Curd,400,14,Veg,Medium
+Sedentary,Fine,Dinner,Stuffed Bell Peppers with Chicken,540,27,Non-Veg,High
+Sedentary,Fine,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,High
+Sedentary,Fine,Dinner,Fish Tikka Platter,300,15,Non-Veg,Low
+Sedentary,Fine,Dinner,Lemon Rice with Vegetable Raita,320,9,Veg,Low
+Sedentary,Fine,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Sedentary,Fine,Dinner,Dal Makhani with Brown Rice,420,14,Veg,Medium
+Sedentary,Fine,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,High
+Sedentary,Fine,Lunch,Paneer Tikka with Quinoa Pulao,560,24,Veg,High
+Sedentary,Fine,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Sedentary,Fine,Lunch,Vegetable Pulao with Curd,380,12,Veg,Low
+Sedentary,Fine,Lunch,Prawn Masala Curry,300,15,Non-Veg,Medium
+Sedentary,Fine,Lunch,Paneer Tikka with Jeera Rice,450,20,Veg,Medium
+Sedentary,High BP,Breakfast,Avocado Toast with Smoked Salmon,320,18,Non-Veg,High
+Sedentary,High BP,Breakfast,Mushroom Paneer Wrap,250,10,Veg,High
+Sedentary,High BP,Breakfast,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Sedentary,High BP,Breakfast,Oats Porridge with Fruits,200,6,Veg,Low
+Sedentary,High BP,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Sedentary,High BP,Breakfast,Avocado Toast with Multigrain Bread,280,8,Veg,Medium
+Sedentary,High BP,Dinner,Steamed Fish with Broccoli and Sweet Potato,420,26,Non-Veg,High
+Sedentary,High BP,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,High
+Sedentary,High BP,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Sedentary,High BP,Dinner,Vegetable Dalia (Broken Wheat),250,8,Veg,Low
+Sedentary,High BP,Dinner,Fish Tikka Platter,300,15,Non-Veg,Medium
+Sedentary,High BP,Dinner,Grilled Veggie Bowl with Couscous,300,9,Veg,Medium
+Sedentary,High BP,Lunch,Grilled Salmon with Quinoa Salad,550,30,Non-Veg,High
+Sedentary,High BP,Lunch,Tofu Stir-Fry Bowl,250,10,Veg,High
+Sedentary,High BP,Lunch,Brown Rice with Grilled Fish and Salad,360,16,Non-Veg,Low
+Sedentary,High BP,Lunch,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Sedentary,High BP,Lunch,Grilled Chicken with Steamed Veggies,400,25,Non-Veg,Medium
+Sedentary,High BP,Lunch,Chickpea Spinach Curry,250,10,Veg,Medium
+Sedentary,Low BP,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Sedentary,Low BP,Breakfast,Almond Butter Banana Smoothie,350,12,Veg,High
+Sedentary,Low BP,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Sedentary,Low BP,Breakfast,Peanut Butter Banana Toast,250,8,Veg,Low
+Sedentary,Low BP,Breakfast,Egg and Cheese Sandwich,320,15,Non-Veg,Medium
+Sedentary,Low BP,Breakfast,Chickpea Spinach Curry,250,10,Veg,Medium
+Sedentary,Low BP,Dinner,Grilled Lamb Chops with Couscous,650,32,Non-Veg,High
+Sedentary,Low BP,Dinner,Grilled Vegetable Sandwich,250,10,Veg,High
+Sedentary,Low BP,Dinner,Scrambled Eggs with Chapati,280,14,Non-Veg,Low
+Sedentary,Low BP,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Sedentary,Low BP,Dinner,Egg Fried Rice with Veggies,400,14,Non-Veg,Medium
+Sedentary,Low BP,Dinner,Quinoa Veg Pilaf,250,10,Veg,Medium
+Sedentary,Low BP,Lunch,Lamb Stew with Whole Wheat Bread,600,32,Non-Veg,High
+Sedentary,Low BP,Lunch,Vegetable Couscous,250,10,Veg,High
+Sedentary,Low BP,Lunch,Chicken Curry with Steamed Rice,400,18,Non-Veg,Low
+Sedentary,Low BP,Lunch,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Sedentary,Low BP,Lunch,Butter Chicken with Brown Rice,500,28,Non-Veg,Medium
+Sedentary,Low BP,Lunch,Vegetable Couscous,250,10,Veg,Medium
+Sedentary,Migraine,Breakfast,Smoked Turkey and Veggie Omelette,370,21,Non-Veg,High
+Sedentary,Migraine,Breakfast,Mushroom Paneer Wrap,250,10,Veg,High
+Sedentary,Migraine,Breakfast,Fish Tikka Platter,300,15,Non-Veg,Low
+Sedentary,Migraine,Breakfast,Poha with Peanuts and Veggies,240,6,Veg,Low
+Sedentary,Migraine,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Sedentary,Migraine,Breakfast,Peanut Butter Oatmeal,280,10,Veg,Medium
+Sedentary,Migraine,Dinner,Grilled Sea Bass with Quinoa,550,29,Non-Veg,High
+Sedentary,Migraine,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,High
+Sedentary,Migraine,Dinner,Baked Fish with Vegetables,280,18,Non-Veg,Low
+Sedentary,Migraine,Dinner,Grilled Vegetable Sandwich,250,10,Veg,Low
+Sedentary,Migraine,Dinner,Baked Chicken with Spinach Rice,380,22,Non-Veg,Medium
+Sedentary,Migraine,Dinner,Grilled Vegetable Sandwich,250,10,Veg,Medium
+Sedentary,Migraine,Lunch,Tuna Salad with Avocado,530,27,Non-Veg,High
+Sedentary,Migraine,Lunch,Quinoa Veg Pilaf,250,10,Veg,High
+Sedentary,Migraine,Lunch,Quinoa Salad with Grilled Chicken,370,20,Non-Veg,Low
+Sedentary,Migraine,Lunch,Grilled Vegetable Sandwich,250,10,Veg,Low
+Sedentary,Migraine,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Sedentary,Migraine,Lunch,Chickpea and Avocado Wrap,360,12,Veg,Medium
+Lightly Active,Arthritis,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,High
+Lightly Active,Arthritis,Breakfast,Buckwheat Pancakes with Honey,370,12,Veg,High
+Lightly Active,Arthritis,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Lightly Active,Arthritis,Breakfast,Vegetable Dalia,240,7,Veg,Low
+Lightly Active,Arthritis,Breakfast,Prawn Masala Curry,300,15,Non-Veg,Medium
+Lightly Active,Arthritis,Breakfast,Vegetable Quinoa Pulao,300,10,Veg,Medium
+Lightly Active,Arthritis,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,High
+Lightly Active,Arthritis,Dinner,Creamy Mushroom and Spinach Risotto,550,20,Veg,High
+Lightly Active,Arthritis,Dinner,Prawn Masala Curry,300,15,Non-Veg,Low
+Lightly Active,Arthritis,Dinner,Vegetable Oats Khichdi,270,9,Veg,Low
+Lightly Active,Arthritis,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Lightly Active,Arthritis,Dinner,Mushroom Risotto with Mixed Greens,480,18,Veg,Medium
+Lightly Active,Arthritis,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Lightly Active,Arthritis,Lunch,Buckwheat Pancakes with Mixed Nuts,500,20,Veg,High
+Lightly Active,Arthritis,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Lightly Active,Arthritis,Lunch,Vegetable Khichdi,370,9,Veg,Low
+Lightly Active,Arthritis,Lunch,Prawn Masala Curry,300,15,Non-Veg,Medium
+Lightly Active,Arthritis,Lunch,Grilled Vegetable and Chickpea Salad,500,19,Veg,Medium
+Lightly Active,Asthma,Breakfast,Chicken Sausage and Scrambled Eggs,450,23,Non-Veg,High
+Lightly Active,Asthma,Breakfast,Quinoa Veg Pilaf,250,10,Veg,High
+Lightly Active,Asthma,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Lightly Active,Asthma,Breakfast,Vegetable Sandwich,270,8,Veg,Low
+Lightly Active,Asthma,Breakfast,Boiled Egg and Veggie Sandwich,330,16,Non-Veg,Medium
+Lightly Active,Asthma,Breakfast,Chickpea Spinach Curry,250,10,Veg,Medium
+Lightly Active,Asthma,Dinner,Roasted Chicken with Steamed Broccoli,550,32,Non-Veg,High
+Lightly Active,Asthma,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,High
+Lightly Active,Asthma,Dinner,Grilled Chicken Salad,300,20,Non-Veg,Low
+Lightly Active,Asthma,Dinner,Quinoa Veg Pilaf,250,10,Veg,Low
+Lightly Active,Asthma,Dinner,Turkey Breast with Grilled Asparagus,500,30,Non-Veg,Medium
+Lightly Active,Asthma,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,Medium
+Lightly Active,Asthma,Lunch,Grilled Chicken with Steamed Vegetables,600,35,Non-Veg,High
+Lightly Active,Asthma,Lunch,Grilled Vegetable Sandwich,250,10,Veg,High
+Lightly Active,Asthma,Lunch,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Lightly Active,Asthma,Lunch,Palak (Spinach) and Paneer,380,16,Veg,Low
+Lightly Active,Asthma,Lunch,Chicken Breast with Roasted Vegetables,550,28,Non-Veg,Medium
+Lightly Active,Asthma,Lunch,Chickpea Spinach Curry,250,10,Veg,Medium
+Lightly Active,Back Pain,Breakfast,Prawn Stir-fry Wrap,420,24,Non-Veg,High
+Lightly Active,Back Pain,Breakfast,Tofu Stir-Fry Bowl,250,10,Veg,High
+Lightly Active,Back Pain,Breakfast,Egg Bhurji with Toast,300,15,Non-Veg,Low
+Lightly Active,Back Pain,Breakfast,Vegetable Couscous,250,10,Veg,Low
+Lightly Active,Back Pain,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Lightly Active,Back Pain,Breakfast,Soya Chunk Upma,320,17,Veg,Medium
+Lightly Active,Back Pain,Dinner,Lobster with Grilled Asparagus,700,45,Non-Veg,High
+Lightly Active,Back Pain,Dinner,Chickpea Spinach Curry,250,10,Veg,High
+Lightly Active,Back Pain,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Lightly Active,Back Pain,Dinner,Grilled Tofu Salad,280,15,Veg,Low
+Lightly Active,Back Pain,Dinner,Lobster Tail with Green Salad,600,28,Non-Veg,Medium
+Lightly Active,Back Pain,Dinner,Quinoa Veg Pilaf,250,10,Veg,Medium
+Lightly Active,Back Pain,Lunch,Grilled Prawns with Rice,680,38,Non-Veg,High
+Lightly Active,Back Pain,Lunch,Chickpea Spinach Curry,250,10,Veg,High
+Lightly Active,Back Pain,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Lightly Active,Back Pain,Lunch,Tofu Stir-fry with Brown Rice,420,20,Veg,Low
+Lightly Active,Back Pain,Lunch,Prawn Curry with Brown Rice,580,26,Non-Veg,Medium
+Lightly Active,Back Pain,Lunch,Grilled Vegetable Sandwich,250,10,Veg,Medium
+Lightly Active,Constipation,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,High
+Lightly Active,Constipation,Breakfast,Avocado Smoothie with Chia,370,10,Veg,High
+Lightly Active,Constipation,Breakfast,Fish Tikka Platter,300,15,Non-Veg,Low
+Lightly Active,Constipation,Breakfast,Banana Oats Smoothie,230,6,Veg,Low
+Lightly Active,Constipation,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Lightly Active,Constipation,Breakfast,Yogurt with Chia and Berries,280,11,Veg,Medium
+Lightly Active,Constipation,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,High
+Lightly Active,Constipation,Dinner,Vegetable Biryani with Yogurt,580,18,Veg,High
+Lightly Active,Constipation,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Lightly Active,Constipation,Dinner,Masoor Dal Soup with Toasted Bread,250,10,Veg,Low
+Lightly Active,Constipation,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Lightly Active,Constipation,Dinner,Lentil and Vegetable Casserole,470,22,Veg,Medium
+Lightly Active,Constipation,Lunch,Prawn Masala Curry,300,15,Non-Veg,High
+Lightly Active,Constipation,Lunch,Avocado and Chickpea Salad,520,18,Veg,High
+Lightly Active,Constipation,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Lightly Active,Constipation,Lunch,Rajma (Kidney Beans) with Rice,410,15,Veg,Low
+Lightly Active,Constipation,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Lightly Active,Constipation,Lunch,Whole Wheat Pasta with Vegetables,520,16,Veg,Medium
+Lightly Active,Diabetes,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,High
+Lightly Active,Diabetes,Breakfast,Greek Yogurt Parfait with Nuts,380,17,Veg,High
+Lightly Active,Diabetes,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Lightly Active,Diabetes,Breakfast,Moong Dal Chilla,260,11,Veg,Low
+Lightly Active,Diabetes,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Lightly Active,Diabetes,Breakfast,Besan Cheela with Paneer Filling,310,14,Veg,Medium
+Lightly Active,Diabetes,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,High
+Lightly Active,Diabetes,Dinner,Cauliflower Rice with Tofu Stir Fry,390,20,Veg,High
+Lightly Active,Diabetes,Dinner,Fish Tikka Platter,300,15,Non-Veg,Low
+Lightly Active,Diabetes,Dinner,Lauki (Bottle Gourd) Curry with Roti,260,7,Veg,Low
+Lightly Active,Diabetes,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Lightly Active,Diabetes,Dinner,Zucchini Noodles with Tofu and Pesto,400,20,Veg,Medium
+Lightly Active,Diabetes,Lunch,Fish Tikka Platter,300,15,Non-Veg,High
+Lightly Active,Diabetes,Lunch,Grilled Tofu with Stir-Fried Vegetables,480,25,Veg,High
+Lightly Active,Diabetes,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Lightly Active,Diabetes,Lunch,Mixed Vegetable Sabzi with Roti,350,12,Veg,Low
+Lightly Active,Diabetes,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Lightly Active,Diabetes,Lunch,Grilled Tofu with Stir-Fried Vegetables,480,22,Veg,Medium
+Lightly Active,Fine,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,High
+Lightly Active,Fine,Breakfast,Protein Waffles with Maple Syrup,450,20,Veg,High
+Lightly Active,Fine,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Lightly Active,Fine,Breakfast,Vegetable Paratha with Curd,320,10,Veg,Low
+Lightly Active,Fine,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Lightly Active,Fine,Breakfast,Grilled Cheese and Tomato Sandwich,360,15,Veg,Medium
+Lightly Active,Fine,Dinner,Chicken Shawarma with Hummus,650,38,Non-Veg,High
+Lightly Active,Fine,Dinner,Vegetable Couscous,250,10,Veg,High
+Lightly Active,Fine,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Lightly Active,Fine,Dinner,Paneer Tikka with Chapati,320,20,Veg,Low
+Lightly Active,Fine,Dinner,Stuffed Bell Peppers with Chicken,540,27,Non-Veg,Medium
+Lightly Active,Fine,Dinner,Chickpea Spinach Curry,250,10,Veg,Medium
+Lightly Active,Fine,Lunch,Turkey and Avocado Salad,300,15,Non-Veg,High
+Lightly Active,Fine,Lunch,Spicy Paneer and Vegetable Skewers,600,25,Veg,High
+Lightly Active,Fine,Lunch,Fish Tikka Platter,300,15,Non-Veg,Low
+Lightly Active,Fine,Lunch,Vegetable Biryani with Raita,460,12,Veg,Low
+Lightly Active,Fine,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Lightly Active,Fine,Lunch,Paneer Tikka with Quinoa Pulao,560,24,Veg,Medium
+Lightly Active,High BP,Breakfast,Smoked Salmon with Avocado Toast,360,19,Non-Veg,High
+Lightly Active,High BP,Breakfast,Tofu Stir-Fry Bowl,250,10,Veg,High
+Lightly Active,High BP,Breakfast,Prawn Masala Curry,300,15,Non-Veg,Low
+Lightly Active,High BP,Breakfast,Vegetable Poha,250,7,Veg,Low
+Lightly Active,High BP,Breakfast,Prawn Masala Curry,300,15,Non-Veg,Medium
+Lightly Active,High BP,Breakfast,Masala Oats with Vegetables,280,9,Veg,Medium
+Lightly Active,High BP,Dinner,Baked Chicken with Sweet Potatoes,450,32,Non-Veg,High
+Lightly Active,High BP,Dinner,Vegetable Couscous,250,10,Veg,High
+Lightly Active,High BP,Dinner,Fish Tikka Platter,300,15,Non-Veg,Low
+Lightly Active,High BP,Dinner,Vegetable Dalia (Broken Wheat),250,8,Veg,Low
+Lightly Active,High BP,Dinner,Steamed Fish with Broccoli and Sweet Potato,420,26,Non-Veg,Medium
+Lightly Active,High BP,Dinner,Vegetable Couscous,250,10,Veg,Medium
+Lightly Active,High BP,Lunch,Grilled Salmon with Quinoa Salad,550,30,Non-Veg,High
+Lightly Active,High BP,Lunch,Quinoa Veg Pilaf,250,10,Veg,High
+Lightly Active,High BP,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Lightly Active,High BP,Lunch,Brown Rice with Moong Dal,360,15,Veg,Low
+Lightly Active,High BP,Lunch,Grilled Salmon with Quinoa Salad,530,30,Non-Veg,Medium
+Lightly Active,High BP,Lunch,Tofu Stir-Fry Bowl,250,10,Veg,Medium
+Lightly Active,Low BP,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,High
+Lightly Active,Low BP,Breakfast,Peanut Butter Protein Shake,400,18,Veg,High
+Lightly Active,Low BP,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Lightly Active,Low BP,Breakfast,Peanut Chikki with Milk,280,9,Veg,Low
+Lightly Active,Low BP,Breakfast,Fish Tikka Platter,300,15,Non-Veg,Medium
+Lightly Active,Low BP,Breakfast,Almond Milk with Dates,320,10,Veg,Medium
+Lightly Active,Low BP,Dinner,Grilled Tuna with Kale Salad,700,40,Non-Veg,High
+Lightly Active,Low BP,Dinner,Quinoa Veg Pilaf,250,10,Veg,High
+Lightly Active,Low BP,Dinner,Scrambled Eggs with Chapati,280,14,Non-Veg,Low
+Lightly Active,Low BP,Dinner,Mushroom Paneer Wrap,250,10,Veg,Low
+Lightly Active,Low BP,Dinner,Grilled Lamb Chops with Couscous,650,32,Non-Veg,Medium
+Lightly Active,Low BP,Dinner,Quinoa Veg Pilaf,250,10,Veg,Medium
+Lightly Active,Low BP,Lunch,Lamb Stew with Whole Wheat Bread,650,35,Non-Veg,High
+Lightly Active,Low BP,Lunch,Grilled Vegetable Sandwich,250,10,Veg,High
+Lightly Active,Low BP,Lunch,Chicken Curry with Chapati,400,18,Non-Veg,Low
+Lightly Active,Low BP,Lunch,Vegetable Couscous,250,10,Veg,Low
+Lightly Active,Low BP,Lunch,Lamb Curry with Steamed Rice,600,32,Non-Veg,Medium
+Lightly Active,Low BP,Lunch,Tofu Stir-Fry Bowl,250,10,Veg,Medium
+Lightly Active,Migraine,Breakfast,Turkey and Spinach Omelette,400,22,Non-Veg,High
+Lightly Active,Migraine,Breakfast,Vegetable Couscous,250,10,Veg,High
+Lightly Active,Migraine,Breakfast,Fish Tikka Platter,300,15,Non-Veg,Low
+Lightly Active,Migraine,Breakfast,Upma with Coconut Chutney,250,6,Veg,Low
+Lightly Active,Migraine,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Lightly Active,Migraine,Breakfast,Idli with Sambhar,310,8,Veg,Medium
+Lightly Active,Migraine,Dinner,Grilled Tuna with Quinoa,600,35,Non-Veg,High
+Lightly Active,Migraine,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,High
+Lightly Active,Migraine,Dinner,Baked Fish with Vegetables,280,18,Non-Veg,Low
+Lightly Active,Migraine,Dinner,Grilled Vegetable Sandwich,250,10,Veg,Low
+Lightly Active,Migraine,Dinner,Grilled Sea Bass with Quinoa,550,29,Non-Veg,Medium
+Lightly Active,Migraine,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,Medium
+Lightly Active,Migraine,Lunch,Smoked Salmon Salad,550,28,Non-Veg,High
+Lightly Active,Migraine,Lunch,Mushroom Paneer Wrap,250,10,Veg,High
+Lightly Active,Migraine,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Lightly Active,Migraine,Lunch,Lentil Soup with Toast,390,14,Veg,Low
+Lightly Active,Migraine,Lunch,Tuna Salad with Avocado,530,27,Non-Veg,Medium
+Lightly Active,Migraine,Lunch,Vegetable Couscous,250,10,Veg,Medium
+Very Active,Arthritis,Breakfast,Prawn Masala Curry,300,15,Non-Veg,High
+Very Active,Arthritis,Breakfast,"Quinoa Bowl with Almond Milk, Nuts & Seeds",470,18,Veg,High
+Very Active,Arthritis,Breakfast,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Very Active,Arthritis,Breakfast,Millet Porridge with Fruits,310,11,Veg,Low
+Very Active,Arthritis,Breakfast,Prawn Masala Curry,300,15,Non-Veg,Medium
+Very Active,Arthritis,Breakfast,Quinoa Upma with Mixed Veggies,380,12,Veg,Medium
+Very Active,Arthritis,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,High
+Very Active,Arthritis,Dinner,Mushroom Risotto with Spinach and Pine Nuts,600,20,Veg,High
+Very Active,Arthritis,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Very Active,Arthritis,Dinner,Vegetable Oats Khichdi with Buttermilk,450,15,Veg,Low
+Very Active,Arthritis,Dinner,Prawn Masala Curry,300,15,Non-Veg,Medium
+Very Active,Arthritis,Dinner,Bajra Khichdi with Curd and Greens,490,17,Veg,Medium
+Very Active,Arthritis,Lunch,Fish Tikka Platter,300,15,Non-Veg,High
+Very Active,Arthritis,Lunch,Chickpea-Avocado Buddha Bowl,620,24,Veg,High
+Very Active,Arthritis,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Very Active,Arthritis,Lunch,Khichdi with Curd and Salad,470,14,Veg,Low
+Very Active,Arthritis,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Very Active,Arthritis,Lunch,Rajma-Quinoa Bowl with Curd,540,20,Veg,Medium
+Very Active,Asthma,Breakfast,Scrambled Eggs with Avocado & Turkey Bacon,520,30,Non-Veg,High
+Very Active,Asthma,Breakfast,Mushroom Paneer Wrap,250,10,Veg,High
+Very Active,Asthma,Breakfast,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Very Active,Asthma,Breakfast,Vegetable Poha with Nuts,330,9,Veg,Low
+Very Active,Asthma,Breakfast,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Very Active,Asthma,Breakfast,Greek Yogurt Bowl with Fruits and Granola,370,17,Veg,Medium
+Very Active,Asthma,Dinner,Roasted Turkey Breast with Green Beans and Sweet Potato,630,32,Non-Veg,High
+Very Active,Asthma,Dinner,Grilled Vegetable Sandwich,250,10,Veg,High
+Very Active,Asthma,Dinner,Roasted Chicken with Carrot & Peas,480,30,Non-Veg,Low
+Very Active,Asthma,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Very Active,Asthma,Dinner,Grilled Chicken with Carrot & Beet Salad,540,30,Non-Veg,Medium
+Very Active,Asthma,Dinner,Quinoa Veg Pilaf,250,10,Veg,Medium
+Very Active,Asthma,Lunch,Turkey Breast with Quinoa & Roasted Zucchini,670,35,Non-Veg,High
+Very Active,Asthma,Lunch,Quinoa Veg Pilaf,250,10,Veg,High
+Very Active,Asthma,Lunch,Grilled Chicken with Whole Grain Roti,500,30,Non-Veg,Low
+Very Active,Asthma,Lunch,Vegetable Couscous,250,10,Veg,Low
+Very Active,Asthma,Lunch,Turkey Mince with Barley Salad,560,30,Non-Veg,Medium
+Very Active,Asthma,Lunch,Tofu Stir-Fry Bowl,250,10,Veg,Medium
+Very Active,Back Pain,Breakfast,Chicken & Spinach Breakfast Wrap,550,32,Non-Veg,High
+Very Active,Back Pain,Breakfast,Vegetable Couscous,250,10,Veg,High
+Very Active,Back Pain,Breakfast,Egg Bhurji with Multigrain Toast,380,20,Non-Veg,Low
+Very Active,Back Pain,Breakfast,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Very Active,Back Pain,Breakfast,Chicken Sausage with Scrambled Eggs,460,26,Non-Veg,Medium
+Very Active,Back Pain,Breakfast,Quinoa Veg Pilaf,250,10,Veg,Medium
+Very Active,Back Pain,Dinner,Lobster Tail with Asparagus and Lemon Butter,720,34,Non-Veg,High
+Very Active,Back Pain,Dinner,Chickpea Spinach Curry,250,10,Veg,High
+Very Active,Back Pain,Dinner,Prawn Masala Curry,300,15,Non-Veg,Low
+Very Active,Back Pain,Dinner,Paneer Bhurji with Multigrain Chapati,470,25,Veg,Low
+Very Active,Back Pain,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Very Active,Back Pain,Dinner,Soya and Broccoli Stir Fry with Brown Rice,520,23,Veg,Medium
+Very Active,Back Pain,Lunch,Prawn Curry with Basmati Rice and Side Salad,680,30,Non-Veg,High
+Very Active,Back Pain,Lunch,Tofu Stir-Fry Bowl,250,10,Veg,High
+Very Active,Back Pain,Lunch,Fish Tikka Platter,300,15,Non-Veg,Low
+Very Active,Back Pain,Lunch,Soya Bhurji with Millet Roti,480,22,Veg,Low
+Very Active,Back Pain,Lunch,Grilled Fish with Veggie Stir-fry,590,26,Non-Veg,Medium
+Very Active,Back Pain,Lunch,Chickpea Spinach Curry,250,10,Veg,Medium
+Very Active,Constipation,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,High
+Very Active,Constipation,Breakfast,"Berry Smoothie Bowl with Flax, Almond Butter & Oats",440,17,Veg,High
+Very Active,Constipation,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Very Active,Constipation,Breakfast,"Green Smoothie (Spinach, Kiwi, Flax)",300,8,Veg,Low
+Very Active,Constipation,Breakfast,Fish Tikka Platter,300,15,Non-Veg,Medium
+Very Active,Constipation,Breakfast,"Smoothie Bowl with Spinach, Apple & Chia",370,12,Veg,Medium
+Very Active,Constipation,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,High
+Very Active,Constipation,Dinner,Lentil & Vegetable Bake with Olive Oil Drizzle,570,25,Veg,High
+Very Active,Constipation,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Very Active,Constipation,Dinner,Vegetable Soup with Bajra Khakhra,420,14,Veg,Low
+Very Active,Constipation,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Very Active,Constipation,Dinner,Lentil Soup with Flax Bread,460,18,Veg,Medium
+Very Active,Constipation,Lunch,Fish Tikka Platter,300,15,Non-Veg,High
+Very Active,Constipation,Lunch,"Whole Wheat Pasta with Spinach, Zucchini & Olives",610,22,Veg,High
+Very Active,Constipation,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Very Active,Constipation,Lunch,Vegetable Pulao with Moong Dal,460,16,Veg,Low
+Very Active,Constipation,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Very Active,Constipation,Lunch,Vegetable-Lentil Casserole,530,20,Veg,Medium
+Very Active,Diabetes,Breakfast,Grilled Chicken Wrap,300,15,Non-Veg,High
+Very Active,Diabetes,Breakfast,"Greek Yogurt with Chia, Walnuts & Mixed Berries",430,20,Veg,High
+Very Active,Diabetes,Breakfast,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Very Active,Diabetes,Breakfast,Moong Dal Pancakes,340,15,Veg,Low
+Very Active,Diabetes,Breakfast,Fish Tikka Platter,300,15,Non-Veg,Medium
+Very Active,Diabetes,Breakfast,Chia Seed Pudding with Berries and Almonds,390,14,Veg,Medium
+Very Active,Diabetes,Dinner,Fish Tikka Platter,300,15,Non-Veg,High
+Very Active,Diabetes,Dinner,Zucchini Noodles with Grilled Tofu and Pesto,500,24,Veg,High
+Very Active,Diabetes,Dinner,Prawn Masala Curry,300,15,Non-Veg,Low
+Very Active,Diabetes,Dinner,Tinda Masala with Jowar Roti,400,13,Veg,Low
+Very Active,Diabetes,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Very Active,Diabetes,Dinner,Moong Dal Dhokla with Mint Chutney,460,19,Veg,Medium
+Very Active,Diabetes,Lunch,Prawn Masala Curry,300,15,Non-Veg,High
+Very Active,Diabetes,Lunch,Grilled Tofu with Stir-Fried Veggies & Brown Rice,600,26,Veg,High
+Very Active,Diabetes,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Very Active,Diabetes,Lunch,Bajra Roti with Mixed Dal,460,18,Veg,Low
+Very Active,Diabetes,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Very Active,Diabetes,Lunch,Stir-Fried Vegetables with Tofu & Brown Rice,510,22,Veg,Medium
+Very Active,Fine,Breakfast,Grilled Chicken Wrap,300,15,Non-Veg,High
+Very Active,Fine,Breakfast,Protein Pancakes with Greek Yogurt & Maple Drizzle,560,24,Veg,High
+Very Active,Fine,Breakfast,Prawn Masala Curry,300,15,Non-Veg,Low
+Very Active,Fine,Breakfast,Paneer Sandwich with Tomato Chutney,390,17,Veg,Low
+Very Active,Fine,Breakfast,Vegetable Omelette with Cheese,450,22,Non-Veg,Medium
+Very Active,Fine,Breakfast,Tofu Stir-Fry Bowl,250,10,Veg,Medium
+Very Active,Fine,Dinner,Stuffed Bell Peppers with Chicken and Barley,660,30,Non-Veg,High
+Very Active,Fine,Dinner,Quinoa Veg Pilaf,250,10,Veg,High
+Very Active,Fine,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Very Active,Fine,Dinner,Dal Fry with Jeera Rice and Salad,500,20,Veg,Low
+Very Active,Fine,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Very Active,Fine,Dinner,Chole with Brown Rice and Salad,550,21,Veg,Medium
+Very Active,Fine,Lunch,Turkey and Avocado Salad,300,15,Non-Veg,High
+Very Active,Fine,Lunch,Paneer Tikka with Couscous and Mint Yogurt,670,28,Veg,High
+Very Active,Fine,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Very Active,Fine,Lunch,Rajma with Brown Rice,500,20,Veg,Low
+Very Active,Fine,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Very Active,Fine,Lunch,Paneer Butter Masala with Jowar Roti,570,23,Veg,Medium
+Very Active,High BP,Breakfast,Avocado Toast with Smoked Salmon,450,22,Non-Veg,High
+Very Active,High BP,Breakfast,Quinoa Veg Pilaf,250,10,Veg,High
+Very Active,High BP,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Very Active,High BP,Breakfast,Oats Smoothie with Banana & Chia Seeds,350,12,Veg,Low
+Very Active,High BP,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Very Active,High BP,Breakfast,Mushroom Paneer Wrap,250,10,Veg,Medium
+Very Active,High BP,Dinner,Steamed Fish with Broccoli and Couscous,580,30,Non-Veg,High
+Very Active,High BP,Dinner,Chickpea Spinach Curry,250,10,Veg,High
+Very Active,High BP,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Very Active,High BP,Dinner,Vegetable Stew with Chapati,380,12,Veg,Low
+Very Active,High BP,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Very Active,High BP,Dinner,Couscous with Steamed Veggies and Beans,420,18,Veg,Medium
+Very Active,High BP,Lunch,Grilled Salmon with Quinoa & Broccoli,650,34,Non-Veg,High
+Very Active,High BP,Lunch,Mushroom Paneer Wrap,250,10,Veg,High
+Very Active,High BP,Lunch,Fish Tikka Platter,300,15,Non-Veg,Low
+Very Active,High BP,Lunch,Brown Rice with Stir-Fried Tofu,480,20,Veg,Low
+Very Active,High BP,Lunch,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Very Active,High BP,Lunch,Grilled Paneer with Brown Rice and Veggies,530,25,Veg,Medium
+Very Active,Low BP,Breakfast,Prawn Masala Curry,300,15,Non-Veg,High
+Very Active,Low BP,Breakfast,Almond Butter Smoothie with Whey Protein,500,25,Veg,High
+Very Active,Low BP,Breakfast,Boiled Eggs with Avocado Toast,370,18,Non-Veg,Low
+Very Active,Low BP,Breakfast,Mushroom Paneer Wrap,250,10,Veg,Low
+Very Active,Low BP,Breakfast,Egg Wrap with Hummus and Veggies,430,20,Non-Veg,Medium
+Very Active,Low BP,Breakfast,Chickpea Spinach Curry,250,10,Veg,Medium
+Very Active,Low BP,Dinner,Grilled Lamb Chops with Couscous and Veggie Saute,750,35,Non-Veg,High
+Very Active,Low BP,Dinner,Quinoa Veg Pilaf,250,10,Veg,High
+Very Active,Low BP,Dinner,Fish Curry with Quinoa,520,26,Non-Veg,Low
+Very Active,Low BP,Dinner,Mushroom Paneer Wrap,250,10,Veg,Low
+Very Active,Low BP,Dinner,Egg Curry with Quinoa and Grilled Veggies,500,24,Non-Veg,Medium
+Very Active,Low BP,Dinner,Vegetable Couscous,250,10,Veg,Medium
+Very Active,Low BP,Lunch,Lamb Stew with Mashed Sweet Potatoes,700,36,Non-Veg,High
+Very Active,Low BP,Lunch,Vegetable Couscous,250,10,Veg,High
+Very Active,Low BP,Lunch,Chicken Stew with Veggies and Rice,520,25,Non-Veg,Low
+Very Active,Low BP,Lunch,Grilled Vegetable Sandwich,250,10,Veg,Low
+Very Active,Low BP,Lunch,Chicken Tikka with Millet Roti,580,28,Non-Veg,Medium
+Very Active,Low BP,Lunch,Mushroom Paneer Wrap,250,10,Veg,Medium
+Very Active,Migraine,Breakfast,"Omelette with Smoked Turkey, Peppers & Cheese",510,29,Non-Veg,High
+Very Active,Migraine,Breakfast,Quinoa Veg Pilaf,250,10,Veg,High
+Very Active,Migraine,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Very Active,Migraine,Breakfast,Vegetable Upma with Flaxseeds,320,10,Veg,Low
+Very Active,Migraine,Breakfast,Prawn Masala Curry,300,15,Non-Veg,Medium
+Very Active,Migraine,Breakfast,Oatmeal with Peanut Butter and Banana,410,16,Veg,Medium
+Very Active,Migraine,Dinner,Grilled Sea Bass with Herbed Quinoa,640,31,Non-Veg,High
+Very Active,Migraine,Dinner,Quinoa Veg Pilaf,250,10,Veg,High
+Very Active,Migraine,Dinner,Fish Tikka Platter,300,15,Non-Veg,Low
+Very Active,Migraine,Dinner,Lentil Soup with Garlic Toast,440,18,Veg,Low
+Very Active,Migraine,Dinner,Turkey and Spinach Wrap,520,28,Non-Veg,Medium
+Very Active,Migraine,Dinner,Grilled Vegetable Sandwich,250,10,Veg,Medium
+Very Active,Migraine,Lunch,Grilled Tuna Nicoise Salad,640,33,Non-Veg,High
+Very Active,Migraine,Lunch,Vegetable Couscous,250,10,Veg,High
+Very Active,Migraine,Lunch,Egg Curry with Quinoa,490,28,Non-Veg,Low
+Very Active,Migraine,Lunch,Mushroom Paneer Wrap,250,10,Veg,Low
+Very Active,Migraine,Lunch,Fish Tikka Platter,300,15,Non-Veg,Medium
+Very Active,Migraine,Lunch,Chickpea Wrap with Yogurt Dip,510,18,Veg,Medium
+Moderately Active,Arthritis,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,High
+Moderately Active,Arthritis,Breakfast,Chickpea Spinach Curry,250,10,Veg,High
+Moderately Active,Arthritis,Breakfast,Fish Tikka Platter,300,15,Non-Veg,Low
+Moderately Active,Arthritis,Breakfast,Quinoa Veg Pilaf,250,10,Veg,Low
+Moderately Active,Arthritis,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Moderately Active,Arthritis,Breakfast,Mushroom Paneer Wrap,250,10,Veg,Medium
+Moderately Active,Arthritis,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Moderately Active,Arthritis,Dinner,Vegetable Couscous,250,10,Veg,High
+Moderately Active,Arthritis,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Moderately Active,Arthritis,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Moderately Active,Arthritis,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Moderately Active,Arthritis,Dinner,Chickpea Spinach Curry,250,10,Veg,Medium
+Moderately Active,Arthritis,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Moderately Active,Arthritis,Lunch,Quinoa Veg Pilaf,250,10,Veg,High
+Moderately Active,Arthritis,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Moderately Active,Arthritis,Lunch,Mushroom Paneer Wrap,250,10,Veg,Low
+Moderately Active,Arthritis,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Moderately Active,Arthritis,Lunch,Vegetable Couscous,250,10,Veg,Medium
+Moderately Active,Asthma,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Moderately Active,Asthma,Breakfast,Mushroom Paneer Wrap,250,10,Veg,High
+Moderately Active,Asthma,Breakfast,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Moderately Active,Asthma,Breakfast,Quinoa Veg Pilaf,250,10,Veg,Low
+Moderately Active,Asthma,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Moderately Active,Asthma,Breakfast,Tofu Stir-Fry Bowl,250,10,Veg,Medium
+Moderately Active,Asthma,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,High
+Moderately Active,Asthma,Dinner,Chickpea Spinach Curry,250,10,Veg,High
+Moderately Active,Asthma,Dinner,Fish Tikka Platter,300,15,Non-Veg,Low
+Moderately Active,Asthma,Dinner,Grilled Vegetable Sandwich,250,10,Veg,Low
+Moderately Active,Asthma,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Moderately Active,Asthma,Dinner,Chickpea Spinach Curry,250,10,Veg,Medium
+Moderately Active,Asthma,Lunch,Prawn Masala Curry,300,15,Non-Veg,High
+Moderately Active,Asthma,Lunch,Mushroom Paneer Wrap,250,10,Veg,High
+Moderately Active,Asthma,Lunch,Fish Tikka Platter,300,15,Non-Veg,Low
+Moderately Active,Asthma,Lunch,Grilled Vegetable Sandwich,250,10,Veg,Low
+Moderately Active,Asthma,Lunch,Prawn Masala Curry,300,15,Non-Veg,Medium
+Moderately Active,Asthma,Lunch,Mushroom Paneer Wrap,250,10,Veg,Medium
+Moderately Active,Back Pain,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Moderately Active,Back Pain,Breakfast,Chickpea Spinach Curry,250,10,Veg,High
+Moderately Active,Back Pain,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Moderately Active,Back Pain,Breakfast,Grilled Vegetable Sandwich,250,10,Veg,Low
+Moderately Active,Back Pain,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Moderately Active,Back Pain,Breakfast,Quinoa Veg Pilaf,250,10,Veg,Medium
+Moderately Active,Back Pain,Dinner,Egg and Cheese Muffin,300,15,Non-Veg,High
+Moderately Active,Back Pain,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,High
+Moderately Active,Back Pain,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Moderately Active,Back Pain,Dinner,Chickpea Spinach Curry,250,10,Veg,Low
+Moderately Active,Back Pain,Dinner,Prawn Masala Curry,300,15,Non-Veg,Medium
+Moderately Active,Back Pain,Dinner,Vegetable Couscous,250,10,Veg,Medium
+Moderately Active,Back Pain,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,High
+Moderately Active,Back Pain,Lunch,Vegetable Couscous,250,10,Veg,High
+Moderately Active,Back Pain,Lunch,Fish Tikka Platter,300,15,Non-Veg,Low
+Moderately Active,Back Pain,Lunch,Chickpea Spinach Curry,250,10,Veg,Low
+Moderately Active,Back Pain,Lunch,Prawn Masala Curry,300,15,Non-Veg,Medium
+Moderately Active,Back Pain,Lunch,Vegetable Couscous,250,10,Veg,Medium
+Moderately Active,Constipation,Breakfast,Fish Tikka Platter,300,15,Non-Veg,High
+Moderately Active,Constipation,Breakfast,Grilled Vegetable Sandwich,250,10,Veg,High
+Moderately Active,Constipation,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Moderately Active,Constipation,Breakfast,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Moderately Active,Constipation,Breakfast,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Moderately Active,Constipation,Breakfast,Quinoa Veg Pilaf,250,10,Veg,Medium
+Moderately Active,Constipation,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Moderately Active,Constipation,Dinner,Chickpea Spinach Curry,250,10,Veg,High
+Moderately Active,Constipation,Dinner,Prawn Masala Curry,300,15,Non-Veg,Low
+Moderately Active,Constipation,Dinner,Vegetable Couscous,250,10,Veg,Low
+Moderately Active,Constipation,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Moderately Active,Constipation,Dinner,Grilled Vegetable Sandwich,250,10,Veg,Medium
+Moderately Active,Constipation,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,High
+Moderately Active,Constipation,Lunch,Vegetable Couscous,250,10,Veg,High
+Moderately Active,Constipation,Lunch,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Moderately Active,Constipation,Lunch,Mushroom Paneer Wrap,250,10,Veg,Low
+Moderately Active,Constipation,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Moderately Active,Constipation,Lunch,Chickpea Spinach Curry,250,10,Veg,Medium
+Moderately Active,Diabetes,Breakfast,Fish Tikka Platter,300,15,Non-Veg,High
+Moderately Active,Diabetes,Breakfast,Quinoa Veg Pilaf,250,10,Veg,High
+Moderately Active,Diabetes,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Moderately Active,Diabetes,Breakfast,Quinoa Veg Pilaf,250,10,Veg,Low
+Moderately Active,Diabetes,Breakfast,Fish Tikka Platter,300,15,Non-Veg,Medium
+Moderately Active,Diabetes,Breakfast,Mushroom Paneer Wrap,250,10,Veg,Medium
+Moderately Active,Diabetes,Dinner,Prawn Masala Curry,300,15,Non-Veg,High
+Moderately Active,Diabetes,Dinner,Grilled Vegetable Sandwich,250,10,Veg,High
+Moderately Active,Diabetes,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Moderately Active,Diabetes,Dinner,Quinoa Veg Pilaf,250,10,Veg,Low
+Moderately Active,Diabetes,Dinner,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Moderately Active,Diabetes,Dinner,Mushroom Paneer Wrap,250,10,Veg,Medium
+Moderately Active,Diabetes,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,High
+Moderately Active,Diabetes,Lunch,Chickpea Spinach Curry,250,10,Veg,High
+Moderately Active,Diabetes,Lunch,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Moderately Active,Diabetes,Lunch,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Moderately Active,Diabetes,Lunch,Fish Tikka Platter,300,15,Non-Veg,Medium
+Moderately Active,Diabetes,Lunch,Mushroom Paneer Wrap,250,10,Veg,Medium
+Moderately Active,Fine,Breakfast,Fish Tikka Platter,300,15,Non-Veg,High
+Moderately Active,Fine,Breakfast,Vegetable Couscous,250,10,Veg,High
+Moderately Active,Fine,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Moderately Active,Fine,Breakfast,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Moderately Active,Fine,Breakfast,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Moderately Active,Fine,Breakfast,Grilled Vegetable Sandwich,250,10,Veg,Medium
+Moderately Active,Fine,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,High
+Moderately Active,Fine,Dinner,Vegetable Couscous,250,10,Veg,High
+Moderately Active,Fine,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Moderately Active,Fine,Dinner,Mushroom Paneer Wrap,250,10,Veg,Low
+Moderately Active,Fine,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Moderately Active,Fine,Dinner,Mushroom Paneer Wrap,250,10,Veg,Medium
+Moderately Active,Fine,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,High
+Moderately Active,Fine,Lunch,Chickpea Spinach Curry,250,10,Veg,High
+Moderately Active,Fine,Lunch,Prawn Masala Curry,300,15,Non-Veg,Low
+Moderately Active,Fine,Lunch,Chickpea Spinach Curry,250,10,Veg,Low
+Moderately Active,Fine,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Moderately Active,Fine,Lunch,Chickpea Spinach Curry,250,10,Veg,Medium
+Moderately Active,High BP,Breakfast,Fish Tikka Platter,300,15,Non-Veg,High
+Moderately Active,High BP,Breakfast,Mushroom Paneer Wrap,250,10,Veg,High
+Moderately Active,High BP,Breakfast,Prawn Masala Curry,300,15,Non-Veg,Low
+Moderately Active,High BP,Breakfast,Mushroom Paneer Wrap,250,10,Veg,Low
+Moderately Active,High BP,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Moderately Active,High BP,Breakfast,Grilled Vegetable Sandwich,250,10,Veg,Medium
+Moderately Active,High BP,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,High
+Moderately Active,High BP,Dinner,Mushroom Paneer Wrap,250,10,Veg,High
+Moderately Active,High BP,Dinner,Prawn Masala Curry,300,15,Non-Veg,Low
+Moderately Active,High BP,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Moderately Active,High BP,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Moderately Active,High BP,Dinner,Quinoa Veg Pilaf,250,10,Veg,Medium
+Moderately Active,High BP,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Moderately Active,High BP,Lunch,Mushroom Paneer Wrap,250,10,Veg,High
+Moderately Active,High BP,Lunch,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Moderately Active,High BP,Lunch,Grilled Vegetable Sandwich,250,10,Veg,Low
+Moderately Active,High BP,Lunch,Prawn Masala Curry,300,15,Non-Veg,Medium
+Moderately Active,High BP,Lunch,Vegetable Couscous,250,10,Veg,Medium
+Moderately Active,Low BP,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,High
+Moderately Active,Low BP,Breakfast,Vegetable Couscous,250,10,Veg,High
+Moderately Active,Low BP,Breakfast,Egg and Cheese Muffin,300,15,Non-Veg,Low
+Moderately Active,Low BP,Breakfast,Quinoa Veg Pilaf,250,10,Veg,Low
+Moderately Active,Low BP,Breakfast,Grilled Chicken Wrap,300,15,Non-Veg,Medium
+Moderately Active,Low BP,Breakfast,Mushroom Paneer Wrap,250,10,Veg,Medium
+Moderately Active,Low BP,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,High
+Moderately Active,Low BP,Dinner,Grilled Vegetable Sandwich,250,10,Veg,High
+Moderately Active,Low BP,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Moderately Active,Low BP,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Moderately Active,Low BP,Dinner,Fish Tikka Platter,300,15,Non-Veg,Medium
+Moderately Active,Low BP,Dinner,Quinoa Veg Pilaf,250,10,Veg,Medium
+Moderately Active,Low BP,Lunch,Turkey and Avocado Salad,300,15,Non-Veg,High
+Moderately Active,Low BP,Lunch,Chickpea Spinach Curry,250,10,Veg,High
+Moderately Active,Low BP,Lunch,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Moderately Active,Low BP,Lunch,Grilled Vegetable Sandwich,250,10,Veg,Low
+Moderately Active,Low BP,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,Medium
+Moderately Active,Low BP,Lunch,Chickpea Spinach Curry,250,10,Veg,Medium
+Moderately Active,Migraine,Breakfast,Prawn Masala Curry,300,15,Non-Veg,High
+Moderately Active,Migraine,Breakfast,Grilled Vegetable Sandwich,250,10,Veg,High
+Moderately Active,Migraine,Breakfast,Chicken Brown Rice Bowl,300,15,Non-Veg,Low
+Moderately Active,Migraine,Breakfast,Tofu Stir-Fry Bowl,250,10,Veg,Low
+Moderately Active,Migraine,Breakfast,Fish Tikka Platter,300,15,Non-Veg,Medium
+Moderately Active,Migraine,Breakfast,Vegetable Couscous,250,10,Veg,Medium
+Moderately Active,Migraine,Dinner,Fish Tikka Platter,300,15,Non-Veg,High
+Moderately Active,Migraine,Dinner,Tofu Stir-Fry Bowl,250,10,Veg,High
+Moderately Active,Migraine,Dinner,Grilled Chicken Wrap,300,15,Non-Veg,Low
+Moderately Active,Migraine,Dinner,Chickpea Spinach Curry,250,10,Veg,Low
+Moderately Active,Migraine,Dinner,Turkey and Avocado Salad,300,15,Non-Veg,Medium
+Moderately Active,Migraine,Dinner,Mushroom Paneer Wrap,250,10,Veg,Medium
+Moderately Active,Migraine,Lunch,Egg and Cheese Muffin,300,15,Non-Veg,High
+Moderately Active,Migraine,Lunch,Chickpea Spinach Curry,250,10,Veg,High
+Moderately Active,Migraine,Lunch,Turkey and Avocado Salad,300,15,Non-Veg,Low
+Moderately Active,Migraine,Lunch,Grilled Vegetable Sandwich,250,10,Veg,Low
+Moderately Active,Migraine,Lunch,Chicken Brown Rice Bowl,300,15,Non-Veg,Medium
+Moderately Active,Migraine,Lunch,Tofu Stir-Fry Bowl,250,10,Veg,Medium
